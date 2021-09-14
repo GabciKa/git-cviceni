@@ -13,4 +13,8 @@ header {
 main {
 	padding: 3em 0;
 	font-size: 20px;
-}x
+}
+
+footer {
+    background-color: #dbe9ee;
+}
